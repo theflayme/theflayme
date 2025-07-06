@@ -4,20 +4,19 @@ Hi there! I’m **Flayme**, a coding enthusiast from **Ukraine** who’s all abo
 
 ## Skills & Technologies
 
-c,cpp,js,react,arduino,html,css,bots,py,fastapi,mysql,mongodb,sqlite,postgres,vscode,figma,ae,ubuntu
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,react,arduino,html,css,bots,py,fastapi,mysql,mongodb,sqlite,postgres,vscode,figma,ae,ubuntu&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
-- [**MasterList_Majestic**](https://github.com/FlaymeXDD/MasterList_Majestic): A Discord bot that provides real-time information about the status of game servers for the Majestic RP network. ⭐️ 0 Stars | Language: Python
-
+[![**MasterList_Majestic**](https://github-readme-stats.vercel.app/api/pin/?username=FlaymeXDD&repo=MasterList_Majestic&theme=dark)](https://github.com/FlaymeXDD/MasterList_Majestic)
 
 ## Connect with Me
 
-{"Telegram":"https://t.me/theflayme","E-mail":"workd6studio@gmail.com"}
+<a href="https://t.me/theflayme" target="_blank" rel="noopener noreferrer"><Icon /> Telegram</a> | <a href="workd6studio@gmail.com" target="_blank" rel="noopener noreferrer"><Icon /> E-mail</a>
 
 ## GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlaymeXDD&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlaymeXDD&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
