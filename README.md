@@ -4,7 +4,7 @@ Hi there! I’m **Flayme**, a coding enthusiast from **Ukraine** who’s all abo
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,react,electron,arduino,html,css,tailwind,bots,py,fastapi,mysql,mongodb,sqlite,postgres,vscode,figma,ae,pr,ps,ubuntu&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,js,react,electron,arduino,html,css,tailwind,bots,py,fastapi,mysql,mongodb,sqlite,postgres,vscode,figma,ae,pr,ps,ubuntu&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
