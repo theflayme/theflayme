@@ -6,13 +6,9 @@ Hi there! I’m **Flayme**, a coding enthusiast from **Ukraine** who’s all abo
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,js,react,electron,arduino,html,css,tailwind,bots,py,fastapi,mysql,mongodb,sqlite,postgres,vscode,figma,ae,pr,ps,ubuntu&perline=8)](https://skillicons.dev)
 
-## Top Projects
-
-[![**MasterList_Majestic**](https://github-readme-stats.vercel.app/api/pin/?username=theflayme&repo=MasterList_Majestic&theme=dark)](https://github.com/theflayme/MasterList_Majestic)
-
 ## Connect with Me
 
-<a href="https://t.me/theflayme" target="_blank" rel="noopener noreferrer"><Icon /> Telegram</a> | <a href="workd6studio@gmail.com" target="_blank" rel="noopener noreferrer"><Icon /> E-mail</a>
+<a href="workd6studio@gmail.com" target="_blank" rel="noopener noreferrer"><Icon /> E-mail</a>
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theflayme&show_icons=true&theme=radical)
