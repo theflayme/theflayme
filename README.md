@@ -9,7 +9,3 @@ Hi there! I’m **Flayme**, a coding enthusiast from **Ukraine** who’s all abo
 ## Connect with Me
 
 <a href="workd6studio@gmail.com" target="_blank" rel="noopener noreferrer"><Icon /> E-mail</a>
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theflayme&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theflayme&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
