@@ -2,9 +2,9 @@
 
 Hi there! I’m **Flayme**, a coding enthusiast from **Ukraine** who’s all about turning wild ideas into awesome projects.
 
-## Skills & Technologies
+## Hard skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,js,react,electron,arduino,html,css,tailwind,bots,py,fastapi,mysql,mongodb,sqlite,postgres,vscode,figma,ae,pr,ps,ubuntu&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,electron,html,css,tailwind,bots,fastapi,mysql,mongodb,sqlite,postgres,figma,ubuntu&perline=8)](https://skillicons.dev)
 
 ## Connect with Me
 
