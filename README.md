@@ -11,4 +11,4 @@ Hi there! I’m **Flayme**, a coding enthusiast from **Ukraine** who’s all abo
 <a href="workd6studio@gmail.com" target="_blank" rel="noopener noreferrer"><Icon /> E-mail</a>
 
 ## Project
-![Secret Words](https://secretwords.d6studio.net)
+[Secret Words](https://secretwords.d6studio.net)
