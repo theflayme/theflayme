@@ -2,6 +2,8 @@
 
 Hi there! I’m **Flayme**, a coding enthusiast from **Ukraine** who’s all about turning wild ideas into awesome projects.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theflayme&show_icons=true&theme=radical)
+
 ## Hard skills
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,electron,html,css,tailwind,bots,fastapi,mysql,mongodb,sqlite,postgres,figma,ubuntu&perline=8)](https://skillicons.dev)
