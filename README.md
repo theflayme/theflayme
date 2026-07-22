@@ -1,13 +1,1 @@
-## Hi there! 👋
-
-Hi there! I’m **Flayme**, a coding enthusiast from **Ukraine** who’s all about turning wild ideas into awesome projects.
-
-## Hard skills
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,electron,html,css,tailwind,bots,fastapi,mysql,mongodb,postgres,figma,ubuntu&perline=8)](https://skillicons.dev)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=theflayme&theme=city-lights&hide_border=true)](https://git.io/streak-stats)
-
-## Connect with Me
-
-<a href="workd6studio@gmail.com" target="_blank" rel="noopener noreferrer"><Icon /> E-mail</a>
+![@theflayme's DevQuest Neofetch](https://devquest-mu.vercel.app/card/theflayme.svg?template=neofetch&style=glass&accent=58b6fe&stats=repos%2Cfollowers%2Cstars%2Ccontributions%2Cstreak%2Cprs)
